@@ -1,3 +1,4 @@
+jsx
 import { useState, useCallback } from "react";
 
 // ── PRICE DATABASE — items grouped into sections per trade ─────
